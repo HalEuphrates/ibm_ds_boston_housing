@@ -31,6 +31,8 @@ The dataset contains housing information for different areas of Boston and is co
    `pip install pandas matplotlib seaborn`
 3. Open the notebook:  
    `jupyter notebook boston_housing_analysis.ipynb`
+   
+📄 [Read the Full Report](./REPORT.md)
 
 ## 📬 Author
 
